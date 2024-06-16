@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void selecionarTesoura(View view) {
-        verificarGanhador("Tesoura");
+        verificarGanhador("tesoura");
     }
 
     private String gerarEscolhaAleatoriaApp() {
